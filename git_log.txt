@@ -1,0 +1,35 @@
+commit a238e506c497ed9a3bb2138894e88612c59641f8
+Author: Jacks-Codes <jacksoncopeland79@gmail.com>
+Date:   Thu Feb 5 19:52:41 2026 -0800
+
+    Updated index with favorite movie
+
+commit 509b66be8b275bf5faaf9b2e468f4ec7195ecc6f
+Author: Jacks-Codes <jacksoncopeland79@gmail.com>
+Date:   Thu Feb 5 19:50:09 2026 -0800
+
+    Updated index with favorite food
+
+commit ccc7a8d855809005dd1a3a3ca59342c4ff2a9826
+Author: Jacks-Codes <jacksoncopeland79@gmail.com>
+Date:   Thu Feb 5 19:46:48 2026 -0800
+
+    Updated index with name and hobby
+
+commit 36c4c40e36f906bcbbe67eed3d4cf58643835bf1
+Author: Jacks-Codes <jacksoncopeland79@gmail.com>
+Date:   Thu Feb 5 19:43:14 2026 -0800
+
+    add readme.txt
+
+commit 292225effd4158703f8bee23a27377f4a1fedb77
+Author: Jacks-Codes <jacksoncopeland79@gmail.com>
+Date:   Thu Feb 5 19:39:23 2026 -0800
+
+    Updated index with name and hobby
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
